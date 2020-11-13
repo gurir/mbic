@@ -1,0 +1,16 @@
+{
+"companyName": "GuriRugova",
+"productName": "Matematike e Bicikleta!",
+"productVersion": "1.0b",
+"dataUrl": "Bicikleta2.data.unityweb",
+"wasmCodeUrl": "Bicikleta2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bicikleta2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
